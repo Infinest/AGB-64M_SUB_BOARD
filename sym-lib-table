@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GBA")(type "KiCad")(uri "${KIPRJMOD}/GBA.kicad_sym")(options "")(descr ""))
+)
