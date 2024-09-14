@@ -8,6 +8,13 @@ The board supports the following save types:
 -  512kbit Flash
 -  1Mbit Flash
 
+## Ordering PCBs
+A ready-to-manufacture set of Gerber files can found [here](https://github.com/Infinest/AGB-64M_SUB_BOARD/blob/master/Gerbers/AGB-64M_SUB_BOARD.zip).
+
+### Important:
+Make sure to order your PCBs with a thickness of 0.6mm or they may not fit into the cartridge.
+For ease of soldering any fine-pitched components (like J1) ENIG as surface finish is recommended.
+
 ## BOM:
 
 | Reference        | Part Number           | Description  |
