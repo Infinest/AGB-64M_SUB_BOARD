@@ -19,8 +19,8 @@ For ease of soldering any fine-pitched components (like J1) ENIG as surface fini
 
 | Reference        | Part Number           | Description  |
 | ------------- |:-------------:| -----:|
-| R1, R2 | RC0201FR-0710KL (or equivalent) | 10K Ω resistor |
-| C1, C2, C3 | GRM033R60J104KE19D (or equivalent) | 0.1µF capacitor |
+| R1, R2 | RC0201FR-0710KL (or equivalent) | 10K Ω resistor 0201 (0603 metric)|
+| C1, C2, C3 | GRM033R60J104KE19D (or equivalent) | 0.1µF capacitor 0201 (0603 metric)|
 | U1 | FM18W08-SG | 256kbit FRAM |
 | U2 | MX29L010TC-15A1 or LE26FV10N1TS / SST39VF512 or SST39LF512 | 1Mbit Flash / 512kbit Flash  |
 | U3 | 9854 / 9853 | 64kbit EEPROM / 4kbit EEPROM |
