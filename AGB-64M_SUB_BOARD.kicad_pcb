@@ -109431,7 +109431,7 @@
   (gr_text "FLASH" (at 48.68 79.5) (layer "B.SilkS") (tstamp 86163a23-7092-48f4-9be7-fc4c992ced7b)
     (effects (font (size 1.45 1.6) (thickness 0.2) bold) (justify left bottom mirror))
   )
-  (gr_text "サブカートリッヅS" (at 67.93 77) (layer "B.SilkS") (tstamp c597f9a1-a353-436d-a805-b31f89b810a0)
+  (gr_text "サブカートリッジS" (at 67.93 77) (layer "B.SilkS") (tstamp c597f9a1-a353-436d-a805-b31f89b810a0)
     (effects (font (size 1.45 1.6) (thickness 0.25) bold) (justify left bottom mirror))
   )
   (gr_text "EEPROM" (at 48.68 74.5) (layer "B.SilkS") (tstamp d9b53250-c1bc-4ed0-b3a9-2884847b4de2)
